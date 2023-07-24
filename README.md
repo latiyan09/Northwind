@@ -2,8 +2,6 @@
 
 📂 Dataset
 
-> 📍 SQL script to generate the dataset is [here](/northwind.postgre_renamed.sql).
-
 The dataset is composed of 13 tables:
 
 <details>
@@ -26,11 +24,6 @@ Show summary
 | Territories         | 53   |
 | Usstates            | 51   |
 
-</details>
-
-Here is the entity relationship diagram (ERD) for this dataset
-<p align="center">
-  <img width=60% height=60%" src="/img/ERD.png">
 
 ## 🔎 Data Dictionary
 
