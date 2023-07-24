@@ -4,10 +4,6 @@
 
 The dataset is composed of 13 tables:
 
-<details>
-<summary>
-Show summary
-</summary>
 
 | Table               | Rows |
 |---------------------|------|
