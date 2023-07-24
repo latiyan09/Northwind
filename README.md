@@ -271,12 +271,6 @@ Filtered on the following conditions:
 
 Finally order the results by unit price in a descending order (highest first).
 
-<details>
-<summary>
-Output example
-</summary>
-
-![Q1_output](/img/Q1.png)
 
 </details>
 
@@ -343,12 +337,7 @@ Filtered on the following conditions:
 
 Finally order the results by country name in an ascending order (lowest first).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q2_output](/img/Q2.png)
 
 </details>
 
@@ -404,12 +393,7 @@ The HR Team wants to know for each employee what was their age on the date they 
 
 Finally order the results by employee age and employee full name in an ascending order (lowest first).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q3_output](/img/Q3.png)
 
 </details>
 
@@ -465,12 +449,6 @@ Filtered on the following conditions:
 
 Finally order the results by total freight (descending order).
 
-<details>
-<summary>
-Output example
-</summary>
-
-![Q4_output](/img/Q4.png)
 
 </details>
 
@@ -538,12 +516,7 @@ Filtered on the following conditions:
 
 Finally order the results by percentage increase (ascending order).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q5_output](/img/Q5.png)
 
 </details>
 
@@ -609,12 +582,7 @@ The Pricing Team wants to know how each category performs according to their pri
 
 Finally order the results by category name then price range (both ascending order).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q6_output](/img/Q6.png)
 
 </details>
 
@@ -689,12 +657,7 @@ The Logistics Team wants to know what is the current state of our regional suppl
 
 Finally order the results by supplier region then category name then price range (each in ascending order).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q7_output](/img/Q7.png)
 
 </details>
 
@@ -782,12 +745,7 @@ Filtered on the following conditions:
 
 Finally order the results by category name then product name (both ascending).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q8_output](/img/Q8.png)
 
 </details>
 
@@ -929,12 +887,7 @@ The Sales Team wants to build a list of KPIs to measure employees' performances.
 
 Finally order the results by total sales amount including discount (descending).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q9_output](/img/Q9.png)
 
 </details>
 
@@ -1029,12 +982,7 @@ The Sales Team wants to build another list of KPIs to measure employees' perform
 
 Finally order the results by category name (ascending) then total sales amount (descending).
 
-<details>
-<summary>
-Output example
-</summary>
 
-![Q10_output](/img/Q10.png)
 
 </details>
 
